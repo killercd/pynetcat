@@ -8,7 +8,7 @@ pynetcat is a netcat utility in python
 ## Installation
 
 
-### local pip install
+### local install
 ```bash
 pip install .
  ```
